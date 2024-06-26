@@ -1,6 +1,6 @@
 # StudySMART
 
-## The problem Rave StudyNOW solves
+## The problem Rave StudySMART solves
 The world has recently changed (pun intended) thanks to generative AI, which also seems to have limitless applications. The goal of the project was to develop a tool that would assist us in resolving various academic issues. Creating study aids and flashcards can take a lot of time, so we looked into ways to use AI to make the process go more quickly. Our study produced much better results than we had anticipated, and we think it can be applied to help with more than simply learning in college courses.
 
 So created a website that can transform practically any media or input into helpful learning resources. It is capable of processing various text documents, including as Word, PowerPoint, and PDF files, as well as audio and video files. All of the data in these formats can be transformed into a succinct yet thorough summary by it. A user can peruse the summary and then use some flashcards to take a quick test. After they think they are ready, they can take a quiz to receive feedback right away! Additionally, users will be able to share the link with other users and export any of the materials as Word documents! It can also include a very broad range of issues and topics. And test it in mathematics and computer science because that's what we are good at, but it also showed high potential for other topics.
