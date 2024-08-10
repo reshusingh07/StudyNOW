@@ -29,7 +29,7 @@ const Selector = (props) => {
                         >
                             S
                         </span>
-                        ummary.
+                        summary.
                     </Button>
                 </Col>
                 <Col span={8}>
@@ -57,7 +57,7 @@ const Selector = (props) => {
                         >
                             F
                         </span>
-                        lashcards.
+                        flashcards.
                     </Button>
                 </Col>
                 <Col span={8}>
@@ -85,7 +85,7 @@ const Selector = (props) => {
                         >
                             Q
                         </span>
-                        uiz.
+                        quiz.
                     </Button>
                 </Col>
             </Row>
