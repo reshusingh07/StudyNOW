@@ -42,7 +42,7 @@ export default function Footer() {
                                 marginTop: "12px",
                             }}
                         >
-                            CodeRave
+                            TMU
                         </p>
                     </Col>
                 </Col>
@@ -72,7 +72,7 @@ export default function Footer() {
                                     textDecoration: "none",
                                 }}
                             >
-                                CodeRave 2024
+                                TMU 2024
                             </p>
                         </Link>
                         
