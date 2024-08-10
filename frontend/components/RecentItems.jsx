@@ -31,7 +31,7 @@ const RecentItems = ({ id, title }) => {
                 <Col span={4}>
                     <Link href={`/${id}`}>
                         <Button type="null" className="button-default">
-                            Study
+                            StudyNOW
                         </Button>
                     </Link>
                 </Col>
